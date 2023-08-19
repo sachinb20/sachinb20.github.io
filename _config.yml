@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Bhadang"
 title_separator          : "-"
 name                     : &name "Sachin Bhadang"
 description              : &description "personal description"
@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Sachin Bhadang"
-  avatar           : "sachin_photo.jpeg"
+  avatar           : "sachin_photo2.jpeg"
   bio              : "4th Year UG @ IIT Kanpur"
   location         : "Kanpur, UP"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=EnwBm5wAAAAJ&hl=en"
-  email            :
+  email            : "sachinb20@iitk.ac.in"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -103,13 +103,13 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :  "https://www.linkedin.com/in/sachinbhadang/"
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
