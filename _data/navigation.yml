@@ -1,11 +1,11 @@
 # main links links
 main:
   - title: "Publications/Patents"
-    url: /publications_patents/
+    url: /publicationspatents/
 
     
   - title: "CV"
     url: /files/CV.pdf
 
-  - title: "Robots I've worked with"
-    url: /Robots_Ive_worked_with/
+  - title: "Robot Gallery"
+    url: /RobotGallery/
