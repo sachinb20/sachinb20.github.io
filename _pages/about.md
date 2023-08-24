@@ -24,13 +24,6 @@ Projects
 Developed a methodology to detect Out‑Of‑Distribution (OOD) samples, proposing a novel approach that combines a learned confidence score with a GAN‑generated outlier samples to accurately identify OOD samples.
 
 
-**Bin Picking Novel Objects in Cluttered Environments**
-
-![Illustration of combining vision and language modalities](images/Bin-Picking.png){: .align-left width="200px"}
-
-An integrated bin‑picking framework that can grasp unknown transparent and semi‑transparent objects in a cluttered environment effectively combining a category-agnostic instance‑segmentation method and an analytical grasp evaluation method.
-
-
 **Learning 6DoF Grasp-poses in Occluded Scenes**
 
 ![Illustration of combining vision and language modalities](images/Framework_updated2.svg){: .align-left width="400px"}
@@ -44,5 +37,11 @@ vesting. Designed the framework using an instance segmentation network followed 
 
 I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
 ) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template.
+
+**Bin Picking Novel Objects in Cluttered Environments**
+
+![Illustration of combining vision and language modalities](images/Bin-Picking.png){: .align-left width="200px"}
+
+An integrated bin‑picking framework that can grasp unknown transparent and semi‑transparent objects in a cluttered environment effectively combining a category-agnostic instance‑segmentation method and an analytical grasp evaluation method.
 
 
