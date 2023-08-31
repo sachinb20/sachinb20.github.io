@@ -36,7 +36,7 @@ vesting. Designed the framework using an instance segmentation network followed 
 ![Illustration of combining vision and language modalities](images/BCI_integration.png){: .align-left width="300px"}
 
 I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template.
+) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template.<br><br>
 
 **Bin Picking Novel Objects in Cluttered Environments**
 
