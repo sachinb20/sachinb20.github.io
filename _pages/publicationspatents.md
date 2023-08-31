@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications/Patents"
+title: "Publications / Patents"
 permalink: /publicationspatents/
 author_profile: true
 ---
@@ -12,7 +12,7 @@ P Raj, S Bhadang, G Chaudhary, T Sandhan, L Behera<br>
 AD Mathur, S Bhadang, P Raj, L Behera, T Sandhan<br>
 *IEEE National Conference on Communications 2023* [pdf](https://ieeexplore.ieee.org/abstract/document/10068034)<br>
 
-**Intelligent Tagging Assistant reinforced Brainwave Controlled Wheelchair**
+**Intelligent Tagging Assistant reinforced Brainwave Controlled Wheelchair**<br>
 J Meenakshinathan, T Sandhan, V Gupta, S Bhadang, L Behera<br>
 *Patent under review*<br>
 
