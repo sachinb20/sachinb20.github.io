@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Bhadang"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Sachin Bhadang"
 description              : &description "personal description"
