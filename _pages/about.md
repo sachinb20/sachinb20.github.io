@@ -48,10 +48,10 @@ I have also created [a set of Jupyter notebooks](https://github.com/academicpage
 An integrated bin‑picking framework that can grasp unknown transparent and semi‑transparent objects in a cluttered environment effectively combining a category-agnostic instance‑segmentation method and an analytical grasp evaluation method.<br><br><br><br><br>
 
 **Development of AI Combat Robots** 
+
 ![Illustration of combining vision and language modalities](images/robomaster.png){: .align-left width="200px"}
 
-Developed autonomous robots for 2v2 detection and shooting combat in a predefined battlefield, participating in the RoboMaster University AI Challenge 
-（RMUA). Bagged the overall [Third Position](files/Robomaster_Certificate.pdf) in IEEE ICRA DJI RoboMaster AI challenge among the 40 international team, represented India as the only Indian team in the competition. <br>
+Developed autonomous robots for 2v2 detection and shooting combat in a predefined battlefield, participating in the RoboMaster University AI Challenge. Bagged the overall [Third Position](files/Robomaster_Certificate.pdf) in IEEE ICRA DJI RoboMaster AI challenge among the 40 international team, represented India as the only Indian team in the competition. <br>
 [Technical Report](files/RMAI_technical_report.pdf) | [Poster](files/Poster-DJI-ICRA2022.pdf) | [Video](https://www.youtube.com/watch?v=U3kv0PN-7x0)
 
 
