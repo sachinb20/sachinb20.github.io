@@ -19,7 +19,7 @@ Projects
 
 **GAN-based Out-Of-Distribution Detection**
 
-![Illustration of combining vision and language modalities](images/Blank diagram.svg){: .align-left width="300px"}
+![Illustration of combining vision and language modalities](images/OOD.png){: .align-left width="300px"}
 
 Developed a methodology to detect Out‑Of‑Distribution (OOD) samples, proposing a novel approach that combines a learned confidence score with a GAN‑generated outlier samples to accurately identify OOD samples.
 
@@ -49,7 +49,7 @@ An integrated bin‑picking framework that can grasp unknown transparent and sem
 
 **Development of AI Combat Robots** 
 
-![Illustration of combining vision and language modalities](images/robomaster.png){: .align-left width="200px"}
+![Illustration of combining vision and language modalities](images/robomaster.png){: .align-left width="250px"}
 
 Developed autonomous robots for 2v2 detection and shooting combat in a predefined battlefield, participating in the RoboMaster University AI Challenge. Bagged the overall [Third Position](files/Robomaster_Certificate.pdf) in IEEE ICRA DJI RoboMaster AI challenge among the 40 international team, represented India as the only Indian team in the competition. <br>
 [Technical Report](files/RMAI_technical_report.pdf) | [Poster](files/Poster-DJI-ICRA2022.pdf) | [Video](https://www.youtube.com/watch?v=U3kv0PN-7x0)
