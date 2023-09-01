@@ -24,15 +24,15 @@ Projects
 Developed a methodology to detect Out‑Of‑Distribution (OOD) samples, proposing a novel approach that combines a learned confidence score with a GAN‑generated outlier samples to accurately identify OOD samples.<br>
 
 [PDF](/about) | [Code](/about) Releasing Soon!
-<br>
+
 **Bin Picking Novel Objects in Cluttered Environments**
 
 ![Illustration of combining vision and language modalities](images/Bin-Picking.png){: .align-left width="200px"}
 
-In this project we develop an integrated bin‑picking framework that can grasp unknown transparent and semi‑transparent objects in a cluttered environment effectively . This is achieved by combining a category-agnostic instance‑segmentation method and an analytical grasp evaluation method.<br><br><br><br><br>
+<br>In this project we develop an integrated bin‑picking framework that can grasp unknown transparent and semi‑transparent objects in a cluttered environment effectively . This is achieved by combining a category-agnostic instance‑segmentation method and an analytical grasp evaluation method.<br><br><br><br><br>
 
 [PDF](/about) | [Code](/about) Releasing Soon!
-<br>
+
 **Learning 6DoF Grasp-poses in Occluded Scenes**
 
 ![Illustration of combining vision and language modalities](images/6dPose_Diagrams.png){: .align-left width="400px"}
@@ -40,7 +40,8 @@ In this project we develop an integrated bin‑picking framework that can grasp 
 A deep learning based framework for learning 6DoF apple fruit grasp‑poses for the application of robotic fruit harvesting. Designed the framework using an instance segmentation network followed by a PointNet based grasp‑pose estimation network.<br>
 
 [PDF](https://ieeexplore.ieee.org/abstract/document/10068034) | [Poster](files/6DOF_Poster.pdf)
-<br>
+
+
 **Autonomous Navigation System for a Brainwave‑controlled Wheelchair**
 
 ![Illustration of combining vision and language modalities](images/BCI_integration.png){: .align-left width="300px"}
@@ -49,7 +50,8 @@ I have also created [a set of Jupyter notebooks](https://github.com/academicpage
 ) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template.<br><br><br>
 
 [Technical Report](files/RMAI_technical_report.pdf) | [Video1](https://www.youtube.com/watch?v=U3kv0PN-7x0) | [Video2](https://www.youtube.com/watch?v=U3kv0PN-7x0)
-<br>
+
+
 **Development of AI Combat Robots** 
 
 ![Illustration of combining vision and language modalities](images/robomaster.png){: .align-left width="250px"}
@@ -58,7 +60,7 @@ Developed autonomous robots for 2v2 detection and shooting combat in a predefine
 
 [Technical Report](files/RMAI_technical_report.pdf) | [Poster](files/Poster-DJI-ICRA2022.pdf) | [Video](https://www.youtube.com/watch?v=U3kv0PN-7x0)
 
-<br>
+
 **RoboSweep: Autonomous Floor Cleaning Swarm Robots** 
 
 ![Illustration of combining vision and language modalities](images/simul.png){: .align-left width="250px"}
@@ -68,7 +70,7 @@ Designed a robot with an advanced floor cleaning mechanism for wet and dry waste
 Cleared the first round of the AIITRA Challenge and received a [Special Mention](https://www.facebook.com/officialaiitra/posts/152936723735786) in the final round for the AIITRA Challenge (Team Wall‑E).<br>
 
 [Algorithm & Robot Design](files/AIITRA.pdf) | [Report](files/WALL_E1.pdf) | [Code](https://github.com/sachinb20/AIITRA)
-<br>
+
 **Simultaneous Control of a 9 DOF Robot**
 
 
