@@ -74,7 +74,7 @@ Cleared the first round of the AIITRA Challenge and received a [Special Mention]
 **Simultaneous Control of a 9 DOF Robot**
 
 Implemented an extended Jacobian based control algorithm enabling the simultaneous control of all degrees of freedom for a UR5 robotic arm integrated
-with a Clearpath Husky base.
+with a Clearpath Husky base.<br>
 [Code](https://github.com/sachinb20/Programobot)
 
 **Self-Balancing Bike** 
