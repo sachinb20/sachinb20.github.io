@@ -72,9 +72,12 @@ Cleared the first round of the AIITRA Challenge and received a [Special Mention]
 [Algorithm & Robot Design](files/AIITRA.pdf) | [Report](files/WALL_E1.pdf) | [Code](https://github.com/sachinb20/AIITRA)
 
 **Simultaneous Control of a 9 DOF Robot**
-
+Implemented an extended Jacobian based control algorithm enabling the simultaneous control of all degrees of freedom for a UR5 robotic arm integrated
+with a Clearpath Husky base.
+[Code](https://github.com/sachinb20/Programobot)
 
 **Self-Balancing Bike** 
 
-
+Tuned PID controller to modulate the speed of a reaction wheel in order to control the two‑wheeler motorbike and added a Lidar based obstacle avoidance System for Navigation.
+[Code](https://github.com/sachinb20/Programobot)
 
