@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! I am Sachin, a fourth year Undergraduate double majoring in Mechanical and Electrical Engineering from IIT Kanpur. My primary research intersests lie in Robotics and Robot Learning. 
+Hi there! I am Sachin, a fourth year Undergraduate double majoring in Mechanical and Electrical Engineering at IIT Kanpur. My primary research intersests lie in Robotics and Robot Learning. 
 
 For over a year and a half, I've been an active member of the Intelligent Systems and Controls Lab at IIT Kanpur, working on robot grasping and manipulation under the guidance of [Prof. Tushar Sandhan](https://home.iitk.ac.in/~sandhan/) and [Prof. Laxmidhar Behera](https://home.iitk.ac.in/~lbehera/). 
 
@@ -21,7 +21,7 @@ Projects
 
 ![Illustration of combining vision and language modalities](images/OOD.png){: .align-left width="300px"}
 
-Developed a methodology to detect Out‑Of‑Distribution (OOD) samples, proposing a novel approach that combines a learned confidence score with a GAN‑generated outlier samples to accurately identify OOD samples.<br>
+Developed a methodology to detect Out‑Of‑Distribution (OOD) samples, proposing a novel approach that combines a learned confidence score with GAN‑generated outlier samples to accurately identify OOD samples.<br>
 
 [PDF](/about) | [Code](/about) Releasing Soon!
 
@@ -29,7 +29,7 @@ Developed a methodology to detect Out‑Of‑Distribution (OOD) samples, proposi
 
 ![Illustration of combining vision and language modalities](images/Bin-Picking.png){: .align-left width="200px"}
 
-<br>In this project we develop an integrated bin‑picking framework that can grasp unknown transparent and semi‑transparent objects in a cluttered environment effectively . This is achieved by combining a category-agnostic instance‑segmentation method and an analytical grasp evaluation method.<br><br><br><br><br>
+<br>In this project we develop an integrated bin‑picking framework that can grasp unknown transparent and semi‑transparent objects in a cluttered environment effectively . This is achieved by combining a category-agnostic instance‑segmentation method and an analytical grasp evaluation method.<br><br><br>
 
 [PDF](/about) | [Code](/about) Releasing Soon!
 
