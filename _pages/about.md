@@ -29,7 +29,7 @@ Developed a methodology to detect Out‑Of‑Distribution (OOD) samples, proposi
 
 ![Illustration of combining vision and language modalities](images/Bin-Picking.png){: .align-left width="200px"}
 
-An integrated bin‑picking framework that can grasp unknown transparent and semi‑transparent objects in a cluttered environment effectively combining a category-agnostic instance‑segmentation method and an analytical grasp evaluation method.<br><br><br><br><br>
+<br>In this project we develop an integrated bin‑picking framework that can grasp unknown transparent and semi‑transparent objects in a cluttered environment effectively . This is achieved by combining a category-agnostic instance‑segmentation method and an analytical grasp evaluation method.<br><br><br><br><br>
 
 [PDF](/about) | [Code](/about) Releasing Soon!
 
