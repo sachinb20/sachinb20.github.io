@@ -53,11 +53,21 @@ An integrated bin‑picking framework that can grasp unknown transparent and sem
 Developed autonomous robots for 2v2 detection and shooting combat in a predefined battlefield, participating in the RoboMaster University AI Challenge. Bagged the overall [Third Position](files/Robomaster_Certificate.pdf) in IEEE ICRA DJI RoboMaster AI challenge among the 40 international team, represented India as the only Indian team in the competition. <br>
 [Technical Report](files/RMAI_technical_report.pdf) | [Poster](files/Poster-DJI-ICRA2022.pdf) | [Video](https://www.youtube.com/watch?v=U3kv0PN-7x0)
 
-**Simulatneous Control of a 9 DOF Robot** 
 
-**Development of AI Combat Robots** 
+**RoboSweep: Autonomous Floor Cleaning Swarm Robots** 
 
-**Development of AI Combat Robots** 
+![Illustration of combining vision and language modalities](images/simul.png){: .align-left width="250px"}
 
-**Development of AI Combat Robots** 
+Deployed an Area coverage algorithm based on Ant Colony Optimization heuristic for Optimal Spatial Coverage of an unknown region to maximize search area for clean in minimum time using a set of intelligent agents.<br>
+Designed a robot with an advanced floor cleaning mechanism for wet and dry waste and set up the simulation environment in Gazebo.<br>
+Cleared the first round of the AIITRA Challenge and received a [Special Mention](https://www.facebook.com/officialaiitra/posts/152936723735786) in the final round for the AIITRA Challenge (Team Wall‑E).<br>
+
+[Algorithm & Robot Design](files/AIITRA.pdf) | [Report](files/WALL_E1.pdf) | [Code](https://github.com/sachinb20/AIITRA)
+
+**Simultaneous Control of a 9 DOF Robot**
+
+
+**Self-Balancing Bike** 
+
+
 
