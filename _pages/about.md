@@ -46,7 +46,7 @@ A deep learning based framework for learning 6DoF apple fruit grasp‑poses for 
 
 ![Illustration of combining vision and language modalities](images/BCI_integration.png){: .align-left width="300px"}
 
-Worked on a project focusing on designing an autonomous wheelchair system that responds to commands from a brain-computer interface, tailored specifically for individuals with physical disabilities enhancing mobility and independence for those with limited physical capabilities.<br><br><br>
+Worked on a project focusing on designing an autonomous wheelchair system that responds to commands from a brain-computer interface, tailored specifically for individuals with physical disabilities enhancing mobility and independence for those with limited physical capabilities.<br>
 
 [Technical Report](files/Wheelchair_Report.pdf) | [Video1](https://www.youtube.com/watch?v=xjp9DIsRWiQ) | [Video2](https://www.youtube.com/watch?v=3boluVXfzJI) | [Video3](https://www.youtube.com/watch?v=-IuF4PJl-5g)
 
