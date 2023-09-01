@@ -28,8 +28,7 @@ Developed a methodology to detect Out‑Of‑Distribution (OOD) samples, proposi
 
 ![Illustration of combining vision and language modalities](images/6dPose_Diagrams.png){: .align-left width="400px"}
 
-A deep learning based framework for learning 6DoF apple fruit grasp‑poses for the application of robotic fruit har‑
-vesting. Designed the framework using an instance segmentation network followed by a PointNet based grasp‑pose estimation network.<br>
+A deep learning based framework for learning 6DoF apple fruit grasp‑poses for the application of robotic fruit harvesting. Designed the framework using an instance segmentation network followed by a PointNet based grasp‑pose estimation network.<br>
 [PDF](https://ieeexplore.ieee.org/abstract/document/10068034) | [Poster](files/6DOF_Poster.pdf)
 
 
@@ -54,5 +53,11 @@ An integrated bin‑picking framework that can grasp unknown transparent and sem
 Developed autonomous robots for 2v2 detection and shooting combat in a predefined battlefield, participating in the RoboMaster University AI Challenge. Bagged the overall [Third Position](files/Robomaster_Certificate.pdf) in IEEE ICRA DJI RoboMaster AI challenge among the 40 international team, represented India as the only Indian team in the competition. <br>
 [Technical Report](files/RMAI_technical_report.pdf) | [Poster](files/Poster-DJI-ICRA2022.pdf) | [Video](https://www.youtube.com/watch?v=U3kv0PN-7x0)
 
+**Simulatneous Control of a 9 DOF Robot** 
 
+**Development of AI Combat Robots** 
+
+**Development of AI Combat Robots** 
+
+**Development of AI Combat Robots** 
 
