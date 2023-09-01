@@ -22,6 +22,7 @@ Projects
 ![Illustration of combining vision and language modalities](images/OOD.png){: .align-left width="300px"}
 
 Developed a methodology to detect Out‑Of‑Distribution (OOD) samples, proposing a novel approach that combines a learned confidence score with a GAN‑generated outlier samples to accurately identify OOD samples.<br>
+
 [PDF](/about) | [Code](/about) Releasing Soon!
 
 **Bin Picking Novel Objects in Cluttered Environments**
@@ -29,6 +30,7 @@ Developed a methodology to detect Out‑Of‑Distribution (OOD) samples, proposi
 ![Illustration of combining vision and language modalities](images/Bin-Picking.png){: .align-left width="200px"}
 
 An integrated bin‑picking framework that can grasp unknown transparent and semi‑transparent objects in a cluttered environment effectively combining a category-agnostic instance‑segmentation method and an analytical grasp evaluation method.<br><br><br><br><br>
+
 [PDF](/about) | [Code](/about) Releasing Soon!
 
 **Learning 6DoF Grasp-poses in Occluded Scenes**
@@ -36,6 +38,7 @@ An integrated bin‑picking framework that can grasp unknown transparent and sem
 ![Illustration of combining vision and language modalities](images/6dPose_Diagrams.png){: .align-left width="400px"}
 
 A deep learning based framework for learning 6DoF apple fruit grasp‑poses for the application of robotic fruit harvesting. Designed the framework using an instance segmentation network followed by a PointNet based grasp‑pose estimation network.<br>
+
 [PDF](https://ieeexplore.ieee.org/abstract/document/10068034) | [Poster](files/6DOF_Poster.pdf)
 
 
@@ -45,6 +48,7 @@ A deep learning based framework for learning 6DoF apple fruit grasp‑poses for 
 
 I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
 ) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template.<br><br><br>
+
 [Technical Report](files/RMAI_technical_report.pdf) | [Video1](https://www.youtube.com/watch?v=U3kv0PN-7x0) | [Video2](https://www.youtube.com/watch?v=U3kv0PN-7x0)
 
 
