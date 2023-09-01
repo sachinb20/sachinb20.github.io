@@ -26,7 +26,7 @@ Developed a methodology to detect Out‑Of‑Distribution (OOD) samples, proposi
 
 **Learning 6DoF Grasp-poses in Occluded Scenes**
 
-![Illustration of combining vision and language modalities](images/Framework_updated2.svg){: .align-left width="400px"}
+![Illustration of combining vision and language modalities](images/6dPose_Diagrams.png){: .align-left width="400px"}
 
 A deep learning based framework for learning 6DoF apple fruit grasp‑poses for the application of robotic fruit har‑
 vesting. Designed the framework using an instance segmentation network followed by a PointNet based grasp‑pose estimation network.<br>
