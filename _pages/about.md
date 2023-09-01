@@ -30,7 +30,7 @@ Developed a methodology to detect Out‑Of‑Distribution (OOD) samples, proposi
 
 A deep learning based framework for learning 6DoF apple fruit grasp‑poses for the application of robotic fruit har‑
 vesting. Designed the framework using an instance segmentation network followed by a PointNet based grasp‑pose estimation network.<br>
-[pdf](https://ieeexplore.ieee.org/abstract/document/10068034) 
+[PDF](https://ieeexplore.ieee.org/abstract/document/10068034) | [Poster](files/6DOF_Poster.pdf)
 
 
 **Autonomous Navigation System for a Brainwave‑controlled Wheelchair**
@@ -39,7 +39,7 @@ vesting. Designed the framework using an instance segmentation network followed 
 
 I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
 ) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template.<br><br><br>
-[Technical Report](files/RMAI_technical_report.pdf) | [Video](https://www.youtube.com/watch?v=U3kv0PN-7x0)
+[Technical Report](files/RMAI_technical_report.pdf) | [Video1](https://www.youtube.com/watch?v=U3kv0PN-7x0) | [Video2](https://www.youtube.com/watch?v=U3kv0PN-7x0)
 
 **Bin Picking Novel Objects in Cluttered Environments**
 
