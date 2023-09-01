@@ -49,7 +49,7 @@ A deep learning based framework for learning 6DoF apple fruit grasp‑poses for 
 I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
 ) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template.<br><br><br>
 
-[Technical Report](files/RMAI_technical_report.pdf) | [Video1](https://www.youtube.com/watch?v=U3kv0PN-7x0) | [Video2](https://www.youtube.com/watch?v=U3kv0PN-7x0)
+[Technical Report](files/Wheelchair_Report.pdf) | [Video1](https://www.youtube.com/watch?v=xjp9DIsRWiQ) | [Video2](https://www.youtube.com/watch?v=3boluVXfzJI) | [Video3](https://www.youtube.com/watch?v=-IuF4PJl-5g)
 
 
 **Development of AI Combat Robots** 
