@@ -6,7 +6,7 @@ author_profile: true
 ---
 **Bin‑picking novel objects through category‑agnostic‑segmentation: RGB matters**<br>
 P Raj, S Bhadang, G Chaudhary, T Sandhan, L Behera<br>
-*IEEE International Conference on Robotic Computing 2024 (Submitted)*<br>
+*IEEE International Conference on Robotic Computing 2024 (Under Review)*<br>
 
 **Learning 6DoF Grasp‑poses in Occluded Scenes Using RGB and 3D Point Cloud Modalities**<br>
 AD Mathur, S Bhadang, P Raj, L Behera, T Sandhan<br>
