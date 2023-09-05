@@ -7,4 +7,4 @@ author_profile: true
 
 Here are some of the robots ive worked on in the past.
 
-![Illustration of combining vision and language modalities](images/pho.jpeg)
+![Illustration of combining vision and language modalities](images/pho.jpeg){: .align-left width="500px"}
