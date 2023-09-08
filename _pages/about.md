@@ -23,7 +23,7 @@ Projects
 
 Developed a methodology to detect Out‑Of‑Distribution (OOD) samples, proposing a novel approach that combines a learned confidence score with GAN‑generated outlier samples to accurately identify OOD samples.<br>
 
-[PDF](/about) | [Code](/about) Releasing Soon!
+[PDF](/about) Work in Progress | [Code](/about) Releasing Soon!
 
 **Bin Picking Novel Objects in Cluttered Environments**
 
@@ -31,7 +31,7 @@ Developed a methodology to detect Out‑Of‑Distribution (OOD) samples, proposi
 
 <br>In this project we develop an integrated bin‑picking framework that can grasp unknown transparent and semi‑transparent objects in a cluttered environment effectively . This is achieved by combining a category-agnostic instance‑segmentation method and an analytical grasp evaluation method.<br><br><br>
 
-[PDF](/about) | [Code](/about) Releasing Soon!
+[PDF](/about) Under Review | [Code](/about) Releasing Soon!
 
 **Learning 6DoF Grasp-poses in Occluded Scenes**
 
