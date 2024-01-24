@@ -14,6 +14,7 @@ For over a year and a half, I've been an active member of the Intelligent System
 
 During the past summer, I had the privilege of undertaking a fully-funded research expedition to Canada as part of the [MITACS Globalink Research Internship](https://www.mitacs.ca/en/programs/globalink/globalink-research-internship) where I worked with [Prof. Hashim Mohamed](https://carleton.ca/mae/profile/hashim-mohamed/) on Out-Of-Distribution Detection.
 
+
 Projects
 ------
 
@@ -31,7 +32,7 @@ Developed a methodology to detect Out‑Of‑Distribution (OOD) samples, proposi
 
 <br>In this project we develop an integrated bin‑picking framework that can grasp unknown transparent and semi‑transparent objects in a cluttered environment effectively . This is achieved by combining a category-agnostic instance‑segmentation method and an analytical grasp evaluation method.<br><br><br>
 
-[PDF](/about) Under Review | [Code](/about) Releasing Soon!
+[PDF](https://arxiv.org/abs/2312.16741) | [Code](/about) Releasing Soon!
 
 **Learning 6DoF Grasp-poses in Occluded Scenes**
 
