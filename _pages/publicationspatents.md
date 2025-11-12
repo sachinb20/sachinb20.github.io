@@ -14,7 +14,7 @@ AD Mathur, S Bhadang, P Raj, L Behera, T Sandhan<br>
 
 **Intelligent Tagging Assistant reinforced Brainwave Controlled Wheelchair**<br>
 J Meenakshinathan, T Sandhan, V Gupta, S Bhadang, L Behera<br>
-*Patent under review*<br>
+*IN Patent* [link](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EnwBm5wAAAAJ&citation_for_view=EnwBm5wAAAAJ:d1gkVwhDpl0C)<br>
 
 **Design of AI Ground Robots for Intelligent Combat in a Dynamic Arena**<br>
 Poster accepted at *IEEE ICRA’22* [pdf](files/Poster-DJI-ICRA2022.pdf)<br>

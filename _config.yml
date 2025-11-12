@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Sachin Bhadang"
   avatar           : "sachin_photo2.jpeg"
-  bio              : "4th Year UG @ IIT Kanpur"
-  location         : "Kanpur, UP"
+  bio              : "Robotics @ UCSD"
+  location         : "San Diego, California"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=EnwBm5wAAAAJ&hl=en"
-  email            : "sachinb20@iitk.ac.in"
+  email            : "sbhadang@ucsd.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          : "bhadang_sachin"
   vine             :
   weibo            :
   xing             :
