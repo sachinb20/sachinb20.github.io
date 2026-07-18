@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi there! I am Sachin Bhadang, currently pursuing my M.S. in Electrical and Computer Engineering at UC San Diego, specializing in Robotics. I am a part of the Cognitive Robotics Laboratory, where I work under the guidance of Prof. Henrik Christensen on action representation for VLA models.
+Hi there! I am Sachin Bhadang, currently pursuing my Master's at UC San Diego, specializing in Robotics. I'm currently researching contact-rich manipulation under Prof. Xiaolong Wang.
 
 Previously I completed my undergrad at IIT Kanpur where I double majored in Mechanical and Electrical Engineering. During my time at IITK I was a Research Assistat at the Intelligent Systems and Controls Lab, working on robot grasping and manipulation in cluttered environments under the supervision of Prof. Tushar Sandhan and Prof. Laxmidhar Behera. 
 
