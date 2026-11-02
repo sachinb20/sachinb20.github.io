@@ -1,0 +1,328 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Sachin Bhadang</title>
+  <meta name="description" content="Sachin Bhadang — Robotics M.S. student at UC San Diego working with Prof. Xiaolong Wang on tactile sensing and contact-rich manipulation.">
+  <meta name="author" content="Sachin Bhadang">
+  <meta property="og:title" content="Sachin Bhadang">
+  <meta property="og:description" content="Robotics @ UC San Diego — tactile sensing and contact-rich manipulation.">
+  <meta property="og:image" content="https://sachinb20.github.io/media/profile.jpg">
+  <meta property="og:url" content="https://sachinb20.github.io/">
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:site" content="@bhadang_sachin">
+  <link rel="canonical" href="https://sachinb20.github.io/">
+  <link rel="icon" href="media/favicon.svg" type="image/svg+xml">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Source+Serif+4:opsz,wght@8..60,500;8..60,600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Person",
+    "name": "Sachin Bhadang",
+    "url": "https://sachinb20.github.io/",
+    "affiliation": "University of California San Diego",
+    "sameAs": [
+      "https://scholar.google.com/citations?user=EnwBm5wAAAAJ",
+      "https://github.com/sachinb20",
+      "https://www.linkedin.com/in/sachinbhadang",
+      "https://x.com/bhadang_sachin"
+    ]
+  }
+  </script>
+</head>
+<body>
+  <main class="page">
+
+    <!-- ================= Intro ================= -->
+    <header class="intro" id="top">
+      <div class="intro-text">
+        <h1>Sachin Bhadang</h1>
+        <p>
+          I'm a graduate student in Electrical and Computer Engineering at <strong>UC San Diego</strong>,
+          where I work with <a href="https://xiaolonw.github.io/"><strong>Prof. Xiaolong Wang</strong></a>. My research focuses on contact-rich
+          robotic manipulation and real-world adaptation for locomotion and dexterous manipulation.
+        </p>
+        <p>
+          Previously, I completed my undergraduate studies at <strong>IIT Kanpur</strong>, double majoring
+          in Mechanical and Electrical Engineering. There, I worked with <a href="https://home.iitk.ac.in/~lbehera/"><strong>Prof. Laxmidhar Behera</strong></a>
+          and <a href="https://home.iitk.ac.in/~sandhan/"><strong>Prof. Tushar Sandhan</strong></a> on robotic grasping in cluttered environments.
+        </p>
+        <p>
+          I was also a research intern at the <a href="https://www.pearl-lab.com/"><strong>PEARL Lab</strong></a> at <strong>TU Darmstadt</strong>, working with
+          <a href="https://www.pearl-lab.com/people/georgia-chalvatzaki"><strong>Prof. Georgia Chalvatzaki</strong></a> on scene-graph representations for interactive object
+          search using mobile manipulators. Additionally, I worked as a robotics engineer at
+          <strong>Kikobot</strong>, developing motor-control firmware and robot learning pipelines for a
+          6-DoF robotic arm.
+        </p>
+
+        <nav class="links" aria-label="Profiles">
+          <a href="mailto:sbhadang@ucsd.edu">Email</a>
+          <a href="files/CV.pdf">CV</a>
+          <a href="https://scholar.google.com/citations?user=EnwBm5wAAAAJ&amp;hl=en">Google Scholar</a>
+          <a href="https://github.com/sachinb20">GitHub</a>
+          <a href="https://x.com/bhadang_sachin">X / Twitter</a>
+          <a href="https://www.linkedin.com/in/sachinbhadang">LinkedIn</a>
+        </nav>
+      </div>
+      <img class="portrait" src="media/profile.jpg" alt="Portrait of Sachin Bhadang" width="200" height="200">
+    </header>
+
+
+    <!-- ================= Publications ================= -->
+    <section id="research">
+      <div class="section-head">
+        <div class="tabs" role="tablist" aria-label="Research">
+          <button class="tab" role="tab" id="tab-publications" aria-controls="publications" aria-selected="true">Publications</button>
+          <button class="tab" role="tab" id="tab-projects" aria-controls="projects" aria-selected="false" tabindex="-1">Projects</button>
+        </div>
+        <p class="note" data-for="publications">* equal contribution</p>
+      </div>
+
+      <div class="panel" id="publications" role="tabpanel" aria-labelledby="tab-publications">
+
+      <article class="pub featured">
+        <a class="thumb thumb-video" href="https://tactx-project.github.io/" aria-label="TactX project page">
+          <video src="media/tactx_board.mp4" poster="media/tactx_board.jpg" autoplay muted loop playsinline preload="metadata"></video>
+        </a>
+        <div class="pub-body">
+          <h3><a href="https://tactx-project.github.io/">TactX: Learning Shared Tactile Representations Across Diverse Sensors</a></h3>
+          <p class="authors">Junsung Park*, <span class="me">Sachin Bhadang*</span>, Carmelo Sferrazza, Sha Yi, Xiaolong Wang</p>
+          <p class="venue">Conference on Robot Learning (<strong>CoRL</strong>), 2026</p>
+          <p class="pub-links">
+            <a href="https://tactx-project.github.io/">project page</a>
+            <a href="https://arxiv.org/abs/2606.31236">arXiv</a>
+            <a href="https://github.com/tactx-project/TactX">code</a>
+            <a href="https://huggingface.co/datasets/TactX/TactX">dataset</a>
+            <button class="bib-toggle" type="button" aria-expanded="false">bibtex</button>
+          </p>
+<pre class="bibtex" hidden>@inproceedings{park2026tactx,
+  title     = {TACTX: Learning Shared Tactile Representations Across Diverse Sensors},
+  author    = {Park, Junsung and Bhadang, Sachin and Sferrazza, Carmelo and Yi, Sha and Wang, Xiaolong},
+  booktitle = {Conference on Robot Learning (CoRL)},
+  year      = {2026}
+}</pre>
+        </div>
+      </article>
+
+      <article class="pub featured">
+        <a class="thumb thumb-light" href="https://tacobench.github.io/" aria-label="TacO project page">
+          <img src="media/taco.jpg" alt="TacO: six tactile sensor fingertips of different modalities" loading="lazy">
+        </a>
+        <div class="pub-body">
+          <h3><a href="https://tacobench.github.io/">TacO: Benchmarking Tactile Sensors for Object Manipulation</a></h3>
+          <p class="authors">Anya Zorin, Zilin Si, <span class="me">Sachin Bhadang</span>, Myungsun Park, Junsung Park, Alexiy Buynitsky, Taejun Park, Sohee John Yoon, Yong-Lae Park, Oliver Kroemer, Zeynep Temel, Michael T. Tolley, Sha Yi, Xiaolong Wang</p>
+          <p class="venue">International Conference on Robotics and Automation (<strong>ICRA</strong>), 2027 <span class="status">under review</span></p>
+          <p class="pub-links">
+            <a href="https://tacobench.github.io/">project page</a>
+            <a href="https://arxiv.org/abs/2605.21976">arXiv</a>
+            <a href="https://github.com/TacObench/TacO">code</a>
+            <button class="bib-toggle" type="button" aria-expanded="false">bibtex</button>
+          </p>
+<pre class="bibtex" hidden>@article{zorin2026taco,
+  title   = {TacO: Benchmarking Tactile Sensors for Object Manipulation},
+  author  = {Zorin, Anya and Si, Zilin and Bhadang, Sachin and Park, Myungsun and Park, Junsung and Buynitsky, Alexiy and Park, Taejun and Yoon, Sohee John and Park, Yong-Lae and Kroemer, Oliver and Temel, Zeynep and Tolley, Michael T. and Yi, Sha and Wang, Xiaolong},
+  journal = {arXiv preprint arXiv:2605.21976},
+  year    = {2026}
+}</pre>
+        </div>
+      </article>
+
+      <article class="pub featured">
+        <a class="thumb thumb-light" href="https://github.com/openrobokit/retargetingkit" aria-label="RetargetingKit on GitHub">
+          <img src="media/retargetingkit.webp" alt="Tracked human hand skeleton retargeted to a robot hand" loading="lazy">
+        </a>
+        <div class="pub-body">
+          <h3><a href="https://github.com/openrobokit/retargetingkit">RetargetingKit: A Modular Toolkit for Dexterous Retargeting Beyond Kinematics</a></h3>
+          <p class="authors">Changwei Jing, Xuanbin Peng, <span class="me">Sachin Bhadang</span>, Yuhang Wu, Lingqi Zeng, Dongjun Tan, Keyi Wang, Xiaolong Wang, Jianglong Ye</p>
+          <p class="venue">International Conference on Robotics and Automation (<strong>ICRA</strong>), 2027 <span class="status">under review</span></p>
+          <p class="pub-links">
+            <a href="https://github.com/openrobokit/retargetingkit">code</a>
+          </p>
+        </div>
+      </article>
+
+      <article class="pub">
+        <a class="thumb thumb-light" href="https://arxiv.org/abs/2312.16741" aria-label="Bin-picking paper on arXiv">
+          <img src="media/binpicking.jpg" alt="UR5 arm with depth camera above a bin of cluttered objects" loading="lazy" class="fit-contain">
+        </a>
+        <div class="pub-body">
+          <h3><a href="https://arxiv.org/abs/2312.16741">Bin-picking of Novel Objects through Category-Agnostic Segmentation: RGB Matters</a></h3>
+          <p class="authors">Prem Raj, <span class="me">Sachin Bhadang</span>, Gaurav Chaudhary, Laxmidhar Behera, Tushar Sandhan</p>
+          <p class="venue">IEEE International Conference on Robotic Computing (<strong>IRC</strong>), 2023</p>
+          <p class="pub-links">
+            <a href="https://arxiv.org/abs/2312.16741">arXiv</a>
+            <button class="bib-toggle" type="button" aria-expanded="false">bibtex</button>
+          </p>
+<pre class="bibtex" hidden>@inproceedings{raj2023binpicking,
+  title     = {Bin-picking of Novel Objects through Category-Agnostic-Segmentation: RGB Matters},
+  author    = {Raj, Prem and Bhadang, Sachin and Chaudhary, Gaurav and Behera, Laxmidhar and Sandhan, Tushar},
+  booktitle = {2023 Seventh IEEE International Conference on Robotic Computing (IRC)},
+  pages     = {231--238},
+  year      = {2023}
+}</pre>
+        </div>
+      </article>
+
+      <article class="pub">
+        <a class="thumb thumb-light" href="https://ieeexplore.ieee.org/abstract/document/10068034" aria-label="6DoF grasp paper on IEEE Xplore">
+          <img src="media/grasp6dof.jpg" alt="Pipeline: instance segmentation network feeding a PointNet++ grasp-pose estimator" loading="lazy" class="fit-contain">
+        </a>
+        <div class="pub-body">
+          <h3><a href="https://ieeexplore.ieee.org/abstract/document/10068034">Learning 6DoF Grasp-poses in Occluded Scenes Using RGB and 3D Point Cloud Modalities</a></h3>
+          <p class="authors">A. D. Mathur, <span class="me">Sachin Bhadang</span>, Prem Raj, Laxmidhar Behera, Tushar Sandhan</p>
+          <p class="venue">National Conference on Communications (<strong>NCC</strong>), 2023</p>
+          <p class="pub-links">
+            <a href="https://ieeexplore.ieee.org/abstract/document/10068034">paper</a>
+            <a href="files/6DOF_Poster.pdf">poster</a>
+            <button class="bib-toggle" type="button" aria-expanded="false">bibtex</button>
+          </p>
+<pre class="bibtex" hidden>@inproceedings{mathur2023learning,
+  title     = {Learning 6DoF Grasp-poses in Occluded Scenes Using RGB and 3D Point Cloud Modalities},
+  author    = {Mathur, A. D. and Bhadang, Sachin and Raj, Prem and Behera, Laxmidhar and Sandhan, Tushar},
+  booktitle = {2023 National Conference on Communications (NCC)},
+  pages     = {1--6},
+  year      = {2023}
+}</pre>
+        </div>
+      </article>
+
+      <h3 class="subhead">Patent</h3>
+      <article class="pub">
+        <a class="thumb thumb-light" href="files/Wheelchair_Report.pdf" aria-label="Wheelchair technical report">
+          <img src="media/wheelchair.jpg" alt="System diagram of the brain-computer-interface wheelchair" loading="lazy" class="fit-contain">
+        </a>
+        <div class="pub-body">
+          <h3>Method and System of Brainwave Controlled Wheelchair with Intelligent Tagging Assistant</h3>
+          <p class="authors">J. Meenakshinathan, Tushar Sandhan, K. Gupta, <span class="me">Sachin Bhadang</span>, Laxmidhar Behera</p>
+          <p class="venue">Indian Patent No. 534723, granted 2024</p>
+          <p class="pub-links">
+            <a href="files/Wheelchair_Report.pdf">report</a>
+            <a href="https://www.youtube.com/watch?v=xjp9DIsRWiQ">video</a>
+          </p>
+        </div>
+      </article>
+      </div>
+
+      <div class="panel" id="projects" role="tabpanel" aria-labelledby="tab-projects" hidden>
+      <article class="pub">
+        <a class="thumb thumb-video" href="https://github.com/sachinb20/IntExpl4HiddenObject" aria-label="Hidden object search code on GitHub">
+          <video src="media/pearl.mp4" poster="media/pearl.jpg" autoplay muted loop playsinline preload="metadata"></video>
+        </a>
+        <div class="pub-body">
+          <h3><a href="https://github.com/sachinb20/IntExpl4HiddenObject">Interactive Exploration and Scene Graphs for Hidden Object Search</a></h3>
+          <p class="authors">Research internship · PEARL Lab, TU Darmstadt · Advisor: Prof. Georgia Chalvatzaki</p>
+          <p class="desc">Action-conditioned scene graphs and CNN-GRU PPO exploration policies in AI2-Thor that open, move and look behind things to reveal occluded objects, with an LLM-based planner that detects subtask failures from visual feedback and replans. Validated in simulation and on a Tiago++ mobile manipulator.</p>
+          <p class="pub-links">
+            <a href="https://github.com/sachinb20/IntExpl4HiddenObject">code: exploration</a>
+            <a href="https://github.com/sachinb20/interactive-scene-graphs">code: scene graphs</a>
+            <a href="https://drive.google.com/file/d/1a-mDa1FIkGZqAJ8ztWsgZMt4HuBc3svZ/view?usp=sharing">report</a>
+          </p>
+        </div>
+      </article>
+
+      <article class="pub">
+        <a class="thumb thumb-light" href="https://github.com/sachinb20/SmolVAM" aria-label="SmolVAM code on GitHub">
+          <video src="media/smolvam.mp4" poster="media/smolvam.jpg" autoplay muted loop playsinline preload="metadata"></video>
+        </a>
+        <div class="pub-body">
+          <h3><a href="https://github.com/sachinb20/SmolVAM">SmolVAM: Lightweight Video-Action Models for Robot Control</a></h3>
+          <p class="authors">Project · UC San Diego</p>
+          <p class="desc">A lightweight video-action model that pairs a 0.7B Hummingbird video model and VideoMAE spatiotemporal features with a transformer flow-matching action decoder. LoRA fine-tuned on 20 MimicGen task variations; 60% success on cube stacking. Left: simulated rollout; right: frames imagined by the video model.</p>
+          <p class="pub-links">
+            <a href="https://github.com/sachinb20/SmolVAM">code</a>
+            <a href="https://drive.google.com/file/d/1FnAIJDBrItJqCUJPkKh-jVP3SlockCMj/view?usp=sharing">report</a>
+          </p>
+        </div>
+      </article>
+
+      <article class="pub">
+        <a class="thumb thumb-video" href="https://github.com/sachinb20/panorama_reconstruction" aria-label="Panorama reconstruction code on GitHub">
+          <img src="media/imu_panorama.jpg" alt="Spherical panorama stitched from camera frames using IMU-estimated orientations" loading="lazy">
+        </a>
+        <div class="pub-body">
+          <h3><a href="https://github.com/sachinb20/panorama_reconstruction">IMU Orientation Tracking &amp; Panorama Reconstruction</a></h3>
+          <p class="authors">Course project · ECE 276A, UC San Diego</p>
+          <p class="desc">Quaternion-based orientation tracking with projected and geodesic gradient descent, fusing a gyroscope motion model with accelerometer gravity observations; motion-model initialization cut optimization iterations by ~64%. The estimated orientations are used to stitch spherical panoramas from camera frames.</p>
+          <p class="pub-links">
+            <a href="https://github.com/sachinb20/panorama_reconstruction">code</a>
+            <a href="https://drive.google.com/file/d/1gTZNiWOVyXNepfAiJjTOoYMRmTJiOhNa/view?usp=sharing">report</a>
+          </p>
+        </div>
+      </article>
+      </div>
+    </section>
+
+    <!-- ================= Experience ================= -->
+    <section id="experience" aria-labelledby="exp-h">
+      <h2 id="exp-h">Experience</h2>
+      <ul class="timeline">
+        <li>
+          <div><strong>Wang Lab, UC San Diego</strong> — Graduate Researcher<br>
+          <span class="muted">Advisor: Prof. Xiaolong Wang · cross-sensor tactile representations, dexterous retargeting</span></div>
+        </li>
+        <li>
+          <div><strong>Kikobot</strong> — Firmware / Robotics Engineer<br>
+          <span class="muted">FOC motor-control firmware, CAN-FD, LeRobot imitation learning on a 6-DoF arm</span></div>
+        </li>
+        <li>
+          <div><strong>PEARL Lab, TU Darmstadt</strong> — Research Intern<br>
+          <span class="muted">Advisor: Prof. Georgia Chalvatzaki · scene graphs and RL for interactive object search</span></div>
+        </li>
+        <li>
+          <div><strong>Intelligent Systems &amp; Control Lab, IIT Kanpur</strong> — Research Assistant<br>
+          <span class="muted">Advisors: Prof. Laxmidhar Behera, Prof. Tushar Sandhan · grasping in clutter</span></div>
+        </li>
+      </ul>
+    </section>
+
+
+  </main>
+
+  <script>
+    // BibTeX toggles
+    document.querySelectorAll(".bib-toggle").forEach((btn) => {
+      btn.addEventListener("click", () => {
+        const pre = btn.closest(".pub-body").querySelector(".bibtex");
+        const open = pre.hidden;
+        pre.hidden = !open;
+        btn.setAttribute("aria-expanded", String(open));
+      });
+    });
+    // Publications / Projects tabs (Publications is the default; #projects opens Projects)
+    const tabs = [...document.querySelectorAll(".tab")];
+    const note = document.querySelector('.note[data-for="publications"]');
+    function selectTab(tab, focus) {
+      tabs.forEach((t) => {
+        const on = t === tab;
+        t.setAttribute("aria-selected", String(on));
+        t.tabIndex = on ? 0 : -1;
+        document.getElementById(t.getAttribute("aria-controls")).hidden = !on;
+      });
+      note.hidden = tab.id !== "tab-publications";
+      if (focus) tab.focus();
+    }
+    tabs.forEach((t, i) => {
+      t.addEventListener("click", () => {
+        selectTab(t);
+        history.replaceState(null, "", "#" + t.getAttribute("aria-controls"));
+      });
+      t.addEventListener("keydown", (e) => {
+        if (e.key === "ArrowRight" || e.key === "ArrowLeft") {
+          const next = tabs[(i + (e.key === "ArrowRight" ? 1 : tabs.length - 1)) % tabs.length];
+          selectTab(next, true);
+        }
+      });
+    });
+    if (location.hash === "#projects") selectTab(document.getElementById("tab-projects"));
+
+    // Respect reduced-motion: show the poster frame instead of autoplaying.
+    if (window.matchMedia("(prefers-reduced-motion: reduce)").matches) {
+      document.querySelectorAll("video[autoplay]").forEach((v) => { v.removeAttribute("autoplay"); v.pause(); });
+    }
+  </script>
+</body>
+</html>
