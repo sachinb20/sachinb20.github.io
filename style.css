@@ -251,21 +251,6 @@ h2 {
   white-space: pre;
 }
 
-/* ---------- Experience ---------- */
-.timeline { list-style: none; padding: 0; margin: 0; }
-.timeline li {
-  display: flex;
-  justify-content: space-between;
-  gap: 16px;
-  padding: 8px 0;
-}
-.when {
-  color: var(--muted);
-  font-size: 0.9rem;
-  white-space: nowrap;
-  font-variant-numeric: tabular-nums;
-}
-
 footer {
   border-top: 1px solid var(--line);
   padding-top: 16px;
@@ -284,5 +269,4 @@ footer p { margin: 0; }
   .section-head { flex-wrap: wrap; row-gap: 4px; }
   .tab { font-size: 1.3rem; }
   .pub.featured { margin: 0 0 14px; padding: 14px; }
-  .timeline li { flex-direction: column; gap: 0; }
 }
