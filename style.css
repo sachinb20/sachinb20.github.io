@@ -71,10 +71,26 @@ a:focus-visible, button:focus-visible { outline: 2px solid var(--accent); outlin
 .links {
   display: flex;
   flex-wrap: wrap;
-  gap: 6px 18px;
-  margin-top: 18px;
-  font-weight: 500;
-  font-size: 0.95rem;
+  gap: 10px 22px;
+  margin-top: 20px;
+}
+.links a {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  color: var(--muted);
+  transition: color 0.15s, transform 0.15s;
+}
+.links a:hover,
+.links a:focus-visible {
+  color: var(--accent);
+  transform: translateY(-1px);
+  text-decoration: none;
+}
+.links svg {
+  height: 24px;
+  width: auto;
+  fill: currentColor;
 }
 
 /* ---------- Sections ---------- */
