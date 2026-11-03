@@ -89,7 +89,7 @@ a:focus-visible, button:focus-visible { outline: 2px solid var(--accent); outlin
 }
 .links svg {
   height: 24px;
-  width: auto;
+  width: 24px;
   fill: currentColor;
 }
 
