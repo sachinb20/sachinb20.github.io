@@ -16,7 +16,7 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Source+Serif+4:opsz,wght@8..60,500;8..60,600&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="style.css?v=20261102">
+  <link rel="stylesheet" href="style.css?v=20261106">
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
@@ -70,7 +70,6 @@
       <img class="portrait" src="media/profile.jpg" alt="Portrait of Sachin Bhadang" width="200" height="200">
     </header>
 
-
     <!-- ================= Publications ================= -->
     <section id="research">
       <div class="section-head">
@@ -90,7 +89,7 @@
         <div class="pub-body">
           <h3><a href="https://tactx-project.github.io/">TactX: Learning Shared Tactile Representations Across Diverse Sensors</a></h3>
           <p class="authors">Junsung Park*, <span class="me">Sachin Bhadang*</span>, Carmelo Sferrazza, Sha Yi, Xiaolong Wang</p>
-          <p class="venue">Conference on Robot Learning (<strong>CoRL</strong>), 2026</p>
+          <p class="venue">Conference on Robot Learning <span class="abbr">(<strong>CoRL</strong>)</span>, 2026</p>
           <p class="pub-links">
             <a href="https://tactx-project.github.io/">project page</a>
             <a href="https://arxiv.org/abs/2606.31236">arXiv</a>
@@ -108,13 +107,28 @@
       </article>
 
       <article class="pub featured">
+        <a class="thumb thumb-light" href="https://openrobokit.com/retargetingkit/" aria-label="RetargetingKit project page">
+          <video src="media/retargetingkit.mp4" poster="media/retargetingkit.jpg" autoplay muted loop playsinline preload="metadata"></video>
+        </a>
+        <div class="pub-body">
+          <h3><a href="https://openrobokit.com/retargetingkit/">RetargetingKit: A Modular Toolkit for Dexterous Retargeting Beyond Kinematics</a></h3>
+          <p class="authors">Changwei Jing, Xuanbin Peng, <span class="me">Sachin Bhadang</span>, Yuhang Wu, Lingqi Zeng, Dongjun Tan, Keyi Wang, Xiaolong Wang, Jianglong Ye</p>
+          <p class="venue">International Conference on Robotics and Automation <span class="abbr">(<strong>ICRA</strong>)</span>, 2027 <span class="status">under review</span></p>
+          <p class="pub-links">
+            <a href="https://openrobokit.com/retargetingkit/">project page</a>
+            <a href="https://github.com/openrobokit/retargetingkit">code</a>
+          </p>
+        </div>
+      </article>
+
+      <article class="pub featured">
         <a class="thumb thumb-light" href="https://tacobench.github.io/" aria-label="TacO project page">
           <img src="media/taco.jpg" alt="TacO: six tactile sensor fingertips of different modalities" loading="lazy">
         </a>
         <div class="pub-body">
           <h3><a href="https://tacobench.github.io/">TacO: Benchmarking Tactile Sensors for Object Manipulation</a></h3>
           <p class="authors">Anya Zorin, Zilin Si, <span class="me">Sachin Bhadang</span>, Myungsun Park, Junsung Park, Alexiy Buynitsky, Taejun Park, Sohee John Yoon, Yong-Lae Park, Oliver Kroemer, Zeynep Temel, Michael T. Tolley, Sha Yi, Xiaolong Wang</p>
-          <p class="venue">International Conference on Robotics and Automation (<strong>ICRA</strong>), 2027 <span class="status">under review</span></p>
+          <p class="venue">International Conference on Robotics and Automation <span class="abbr">(<strong>ICRA</strong>)</span>, 2027 <span class="status">under review</span></p>
           <p class="pub-links">
             <a href="https://tacobench.github.io/">project page</a>
             <a href="https://arxiv.org/abs/2605.21976">arXiv</a>
@@ -131,27 +145,13 @@
       </article>
 
       <article class="pub featured">
-        <a class="thumb thumb-light" href="https://github.com/openrobokit/retargetingkit" aria-label="RetargetingKit on GitHub">
-          <img src="media/retargetingkit.webp" alt="Tracked human hand skeleton retargeted to a robot hand" loading="lazy">
-        </a>
-        <div class="pub-body">
-          <h3><a href="https://github.com/openrobokit/retargetingkit">RetargetingKit: A Modular Toolkit for Dexterous Retargeting Beyond Kinematics</a></h3>
-          <p class="authors">Changwei Jing, Xuanbin Peng, <span class="me">Sachin Bhadang</span>, Yuhang Wu, Lingqi Zeng, Dongjun Tan, Keyi Wang, Xiaolong Wang, Jianglong Ye</p>
-          <p class="venue">International Conference on Robotics and Automation (<strong>ICRA</strong>), 2027 <span class="status">under review</span></p>
-          <p class="pub-links">
-            <a href="https://github.com/openrobokit/retargetingkit">code</a>
-          </p>
-        </div>
-      </article>
-
-      <article class="pub featured">
         <a class="thumb thumb-light" href="https://arxiv.org/abs/2312.16741" aria-label="Bin-picking paper on arXiv">
           <img src="media/binpicking.jpg" alt="UR5 arm with depth camera above a bin of cluttered objects" loading="lazy" class="fit-contain">
         </a>
         <div class="pub-body">
           <h3><a href="https://arxiv.org/abs/2312.16741">Bin-picking of Novel Objects through Category-Agnostic Segmentation: RGB Matters</a></h3>
           <p class="authors">Prem Raj, <span class="me">Sachin Bhadang</span>, Gaurav Chaudhary, Laxmidhar Behera, Tushar Sandhan</p>
-          <p class="venue">IEEE International Conference on Robotic Computing (<strong>IRC</strong>), 2023</p>
+          <p class="venue">IEEE International Conference on Robotic Computing <span class="abbr">(<strong>IRC</strong>)</span>, 2023</p>
           <p class="pub-links">
             <a href="https://arxiv.org/abs/2312.16741">arXiv</a>
             <button class="bib-toggle" type="button" aria-expanded="false">bibtex</button>
@@ -173,7 +173,7 @@
         <div class="pub-body">
           <h3><a href="https://ieeexplore.ieee.org/abstract/document/10068034">Learning 6DoF Grasp-poses in Occluded Scenes Using RGB and 3D Point Cloud Modalities</a></h3>
           <p class="authors">A. D. Mathur, <span class="me">Sachin Bhadang</span>, Prem Raj, Laxmidhar Behera, Tushar Sandhan</p>
-          <p class="venue">National Conference on Communications (<strong>NCC</strong>), 2023</p>
+          <p class="venue">National Conference on Communications <span class="abbr">(<strong>NCC</strong>)</span>, 2023</p>
           <p class="pub-links">
             <a href="https://ieeexplore.ieee.org/abstract/document/10068034">paper</a>
             <a href="files/6DOF_Poster.pdf">poster</a>
@@ -270,7 +270,6 @@
       </article>
       </div>
     </section>
-
 
 
   </main>

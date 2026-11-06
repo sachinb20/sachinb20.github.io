@@ -208,6 +208,7 @@ h2 {
 .me { color: var(--me); font-weight: 600; }
 .venue { font-style: italic; }
 .venue strong { font-style: normal; color: var(--star); }
+.venue .abbr { font-style: normal; }
 .status {
   font-style: normal;
   font-size: 0.75rem;
